@@ -1,9 +1,9 @@
 {
-  "version": "1.0.0",
-  "build": 1,
-  "forceUpdate": true,
-  "apk_url": "https://github.com/AtlasLK/tv/releases/download/1.0.0/LankaTv-v1.0.0-1.apk",
-  "changelog": [
+  "version": "1.1.0",
+  "build": 2,
+  "forceUpdate": false,
+  "apk_url": "https://github.com/AtlasLK/tv/releases/download/1.1.0/LankaTv-v1.1.0-2.apk",
+    "changelog": [
     "Enhanced player performance for smoother streaming",
     "Android TV Box compatibility fixes",
     "EPG loading and accuracy improvements",
