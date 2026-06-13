@@ -1,9 +1,9 @@
 {
-  "version": "1.4.0",
-  "build": 5,
+  "version": "1.5.0",
+  "build": 6,
   "forceUpdate": true,
   "apk_url": "https://github.com/AtlasLK/tv/releases/download/_/LankaTV-v1.5.0.apk",
-  "changelog": [
+   "changelog": [
     "Bug fixes and performance improvements",
     "Minor UI improvements in home page and series page",
     "General stability enhancements"
