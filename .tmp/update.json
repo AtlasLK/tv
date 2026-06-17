@@ -1,11 +1,11 @@
 {
-  "version": "1.6.0",
-  "build": 7,
+  "version": "1.7.0",
+  "build": 8,
   "forceUpdate": true,
-  "apk_url": "https://github.com/AtlasLK/tv/releases/download/_/LankaTV-v1.6.0.apk",
-   "changelog": [
+  "apk_url": "https://github.com/AtlasLK/tv/releases/download/_/LankaTV-v1.7.0.apk",
+  "changelog": [
+    "Added AirPlay 2 & DLNA casting support — cast from iPhone, iPad, Mac or Android",
     "Bug fixes and performance improvements",
-    "Minor UI improvements in home page and series page",
     "General stability enhancements"
   ],
   "updateAvailable": true
