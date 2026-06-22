@@ -1,8 +1,8 @@
 {
-  "version": "1.7.5",
-  "build": 9,
+  "version": "1.7.6",
+  "build": 10,
   "forceUpdate": true,
-  "apk_url": "https://github.com/AtlasLK/tv/releases/download/_/LankaTV-v1.7.5.apk",
+  "apk_url": "https://github.com/AtlasLK/tv/releases/download/_/LankaTV-v1.7.6.apk",
   "changelog": [
     "Bug fixes and performance improvements",
     "General stability enhancements"
