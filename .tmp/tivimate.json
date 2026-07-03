@@ -1,6 +1,7 @@
 {
-  "version": "2.0.1",
+  "version": "2.0.0",
   "apkUrl": "https://github.com/AtlasLK/tv/releases/download/release-_/TiviMate-LankaTV-2.0.0.apk",
   "releaseNotes": "See CHANGELOG.md",
-  "apkSize": 0
+  "apkSize": 0,
+  "mandatory": false
 }
